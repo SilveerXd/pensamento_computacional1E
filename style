@@ -1,0 +1,17 @@
+p {
+ 	text-align: center;
+ 	background-color: #8EB8E2;
+}
+
+body {
+	background: #8EB8E2;
+}
+
+
+strong {
+	color: red;
+}
+
+em {
+	color: blue;
+}
